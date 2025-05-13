@@ -1,0 +1,6 @@
+.env
+
+mysites/api/__pycache__
+mysites/api/migrations
+
+mysites/mysite/__pycache__

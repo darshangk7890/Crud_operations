@@ -1,0 +1,17 @@
+when this url ("http://127.0.0.1:8000/") comes then type after the url like this(" http://127.0.0.1:8000/blog/")
+after making this you will get the website whefre u can create delete display retrive 
+
+so ensure that you are entering the correct command  
+
+
+when you guys delete the id then u get the message as some like this "are you sure wanna delete the blog" in this 
+if click yes then the blog will be deleted if not it will not get deleted automatically,
+
+when you guys delete the blog then you can ensure where whether the id is deleted or not in this u should 
+type the url something like this "http://127.0.0.1:8000/blog/"put the id number which you have deleted"/ then click enter 
+you can see the page called" blog retrive update delete" 
+
+
+so guys i hope this may help you more 
+
+but i request you guys not to change the readme.md file 
